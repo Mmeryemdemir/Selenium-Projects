@@ -1,4 +1,4 @@
-package C03;
+package day03_webElements_locators;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
